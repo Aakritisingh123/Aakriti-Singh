@@ -1,4 +1,4 @@
 # Aakriti-Singh
 This is my first git repository.
 <br>
-Author - Aakriti Singh
+Author - Aakriti (B.tech cse)
